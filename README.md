@@ -1,5 +1,4 @@
-# MAI-2025-sRGB
-My Solution for the Mobile AI 2025 Workshop sRGB Image Enhancement Challenge.(Pytorch)
+# [CVPR Workshop 2025] ✨ Enhanceformer for the Mobile AI 2025 sRGB Image Enhancement Challenge.
 
 <img src="Figs/Overview.png">
 
